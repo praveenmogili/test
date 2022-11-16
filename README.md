@@ -1,1 +1,22 @@
-## Fooa
+# demo-nov2020
+
+## Problem 1
+
+Write a program in Go or Node or Java to:
+1. read the file named : file1
+2. sort the file on the IP address colum
+3. make sure to find and remove duplicates programmatically.
+4. then generate a reverse name file with the records - see an example on how output should like for a single record in output-sample.
+5. write the output to : outfile1
+
+## Problem 2
+
+Write a program in Go or Node or Java
+to accept an interactive input keyword string and by using that read string , search through the data loaded from 
+problem2.json file
+and print out the url name if a input string matches the name and/or description.
+
+
+## Bonus Problem 
+
+Write a program in Go or Node or Java
