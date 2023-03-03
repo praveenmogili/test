@@ -4,7 +4,7 @@
 mythics.dev.		86400	IN	SOA	vmdns01.mythics.dev.mythics.dev. root.vmdns01.mythics.dev. 2020021716 86400 3600 604800 10800
 mythics.dev.		86400	IN	NS	vmdns01.mythics.dev.
 mythics.dev.		86400	IN	NS	vmdns02.mythics.dev.
-solaris11.3-js.mythics.dev. 86400 IN	A	192.168.1.55
+solaris113-js.mythics.dev. 86400 IN	A	192.168.1.55
 aiinstall.mythics.dev.	86400	IN	A	192.168.1.39
 vmdocker03.mythics.dev.	86400	IN	A	192.168.1.233
 vmdocker04.mythics.dev.	86400	IN	A	192.168.1.234
@@ -31,7 +31,7 @@ vmdocker04.mythics.dev.	86400	IN	A	192.168.1.234
 mysql.mythics.dev.	86400	IN	CNAME	oradb.mythics.dev.
 oem.mythics.dev.	86400	IN	A	192.168.1.25
 ohb121.mythics.dev.	86400	IN	A	192.168.1.121
-solaris11.3-js.mythics.dev. 86400 IN	A	192.168.1.55
+solaris113-js.mythics.dev. 86400 IN	A	192.168.1.55
 ohb122.mythics.dev.	86400	IN	A	192.168.1.122
 ohb123.mythics.dev.	86400	IN	A	192.168.1.123
 ohb123.mythics.dev.	86400	IN	A	192.168.1.123

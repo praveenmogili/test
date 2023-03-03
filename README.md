@@ -3,17 +3,16 @@
 ## Problem 1
 
 Write psedo code of an algorithm which performs the transformations on the input file : file1
+a. file1 to file2
+b. file2 to file3
+c. file3 to file3.json
 
-program in Go or Node or Java to:
-1. read the file named : file1
-2. sort the file on the IP address colum
-3. make sure to find and remove duplicates programmatically.
-4. then generate a reverse name file with the records - see an example on how output should like for a single record in output-sample.
-5. write the output to : outfile1
+then implement this in your favorite programming language (Python or Go or Ruby or Java or Node or shell etc., )
+
 
 ## Problem 2
 
-Write a program in Ansible or Go or Node or Java
+Write a program in Ansible or Go or Node or Java or shell
 to accept an interactive input keyword string and by using that read string , search through the data loaded from 
 problem2.json file
 and print out the url name if a input string matches the name and/or description.
