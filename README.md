@@ -2,7 +2,9 @@
 
 ## Problem 1
 
-Write a program in Go or Node or Java to:
+Write psedo code of an algorithm which performs the transformations on the input file : file1
+
+program in Go or Node or Java to:
 1. read the file named : file1
 2. sort the file on the IP address colum
 3. make sure to find and remove duplicates programmatically.
