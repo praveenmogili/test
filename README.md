@@ -3,9 +3,9 @@
 ## Problem 1
 
 Write pseudo code of an algorithm which performs the transformations on the input file : file1
-a. file1 to file2
-b. file2 to file3
-c. file3 to file3.json
+* file1 to file2
+* file2 to file3
+* file3 to file3.json
 
 then implement this in your favorite programming language (Python or Go or Ruby or Java or Node or shell etc., )
 

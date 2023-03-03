@@ -1,5 +1,6 @@
 ; <<>> DiG 9.11.4-P2-RedHat-9.11.4-9.P2.el7 <<>> @192.168.1.254 mythics.dev -t AXFR
 ; (1 server found)
+:
 ;; global options: +cmd
 mythics.dev.		86400	IN	SOA	vmdns01.mythics.dev.mythics.dev. root.vmdns01.mythics.dev. 2020021716 86400 3600 604800 10800
 mythics.dev.		86400	IN	NS	vmdns01.mythics.dev.
